@@ -1,0 +1,7 @@
+{
+  "name": "markov_chain_002",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NickSettler/markov_chain_002",
+  "license": "MIT"
+}
